@@ -1,0 +1,9 @@
+.\objects\def.o: lwip\src\core\def.c
+.\objects\def.o: .\lwip\src\include\lwip/opt.h
+.\objects\def.o: ..\STM32F407_Test\lwipopts.h
+.\objects\def.o: .\lwip\src\include\lwip/debug.h
+.\objects\def.o: .\lwip\src\include\lwip/arch.h
+.\objects\def.o: .\lwip\port\include\arch/cc.h
+.\objects\def.o: .\lwip\port\include\arch/cpu.h
+.\objects\def.o: .\lwip\src\include\lwip/opt.h
+.\objects\def.o: .\lwip\src\include\lwip/def.h

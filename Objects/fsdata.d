@@ -1,0 +1,11 @@
+.\objects\fsdata.o: fsdata.c
+.\objects\fsdata.o: fs.h
+.\objects\fsdata.o: .\lwip\src\include\lwip/opt.h
+.\objects\fsdata.o: ..\STM32F407_Test\lwipopts.h
+.\objects\fsdata.o: .\lwip\src\include\lwip/debug.h
+.\objects\fsdata.o: .\lwip\src\include\lwip/arch.h
+.\objects\fsdata.o: .\lwip\port\include\arch/cc.h
+.\objects\fsdata.o: .\lwip\port\include\arch/cpu.h
+.\objects\fsdata.o: .\lwip\src\include\lwip/opt.h
+.\objects\fsdata.o: .\lwip\src\include\lwip/def.h
+.\objects\fsdata.o: fsdata.h

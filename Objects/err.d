@@ -1,0 +1,9 @@
+.\objects\err.o: lwip\src\api\err.c
+.\objects\err.o: .\lwip\src\include\lwip/err.h
+.\objects\err.o: .\lwip\src\include\lwip/opt.h
+.\objects\err.o: ..\STM32F407_Test\lwipopts.h
+.\objects\err.o: .\lwip\src\include\lwip/debug.h
+.\objects\err.o: .\lwip\src\include\lwip/arch.h
+.\objects\err.o: .\lwip\port\include\arch/cc.h
+.\objects\err.o: .\lwip\port\include\arch/cpu.h
+.\objects\err.o: .\lwip\src\include\lwip/opt.h

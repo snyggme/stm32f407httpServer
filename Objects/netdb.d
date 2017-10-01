@@ -1,0 +1,9 @@
+.\objects\netdb.o: lwip\src\api\netdb.c
+.\objects\netdb.o: .\lwip\src\include\lwip/netdb.h
+.\objects\netdb.o: .\lwip\src\include\lwip/opt.h
+.\objects\netdb.o: ..\STM32F407_Test\lwipopts.h
+.\objects\netdb.o: .\lwip\src\include\lwip/debug.h
+.\objects\netdb.o: .\lwip\src\include\lwip/arch.h
+.\objects\netdb.o: .\lwip\port\include\arch/cc.h
+.\objects\netdb.o: .\lwip\port\include\arch/cpu.h
+.\objects\netdb.o: .\lwip\src\include\lwip/opt.h
